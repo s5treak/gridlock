@@ -1,0 +1,4 @@
+pywin32==300
+requests==2.25.0
+pycryptodome==3.10.1
+win32gui==221.6

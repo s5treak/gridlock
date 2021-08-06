@@ -1,0 +1,260 @@
+
+
+hr {
+    width: 30%;
+    border: 2px dashed #fc0254;
+/*#fab915;
+*/
+}
+
+
+
+/*.meet-tweeny::before{
+
+
+
+    position: absolute;
+content: '';
+display: block;
+left: -60%;
+top: -600px;
+height: 75%;
+-webkit-transform: rotate(-12deg);
+transform: rotate(-12deg);
+width: 180%;
+background:
+#EFF2F5;
+}*/
+/*
+.features-section {
+    position: relative;
+    overflow: hidden;
+}*/
+
+/*
+.features-section::before {
+    position: absolute;
+    content: '';
+    display: block;
+    left: -60%;
+    top: -150px;
+    height: 90%;
+    -webkit-transform: rotate(-12deg);
+    transform: rotate(-12deg);
+    width: 180%;
+    background: 
+    #EFF2F5;
+      background-image: url(../img/hero.png);
+}
+*/
+
+
+
+.meet-tweeny{
+   
+    width: 100%;
+    background: #EFF2F5;
+       background-image: url(../img/hero.png);
+    background-repeat: repeat;
+    padding-top: 70px!important;
+    padding-bottom: 70px!important;
+
+   
+
+
+
+}
+/*
+ background-color: #0a183d1c;
+
+    background-image: url(../img/bglight.svg);
+    background-color: #f8f9fa;
+
+    background-size: 100%;
+
+    background-repeat: no-repeat;
+
+
+    background-position: 50% calc(100% + 1px);*/
+
+
+.frontpage-integration__main-logo {
+    background-color: 
+#009fc1;
+margin: auto;
+
+border-radius: 50%;
+width: 158px;
+height: 158px;
+-webkit-box-shadow: 0 0 0 180px rgba(0,159,193,.1),0 0 0 120px rgba(0,159,193,.3),0 0 0 60px rgba(0,159,193,.45);
+box-shadow: 0 0 0 180px
+rgba(0,159,193,.1),0 0 0 120px rgba(0,159,193,.3),0 0 0 60px
+    rgba(0,159,193,.45);
+}
+
+.integration-section{
+
+    background-image: url(../img/hero.png);
+    background-repeat: repeat;
+}
+
+.card {
+    background-color: 
+    #ffffff2b !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff!important;
+    background-color: 
+    #fc0254!important;
+}
+
+.subscription-section{
+
+    background-image: url(../img/ryse.png)!important;
+        background-position: top center;
+        background-color: none!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1354px;
+    margin-top: -6rem!important;
+  
+
+}
+
+.sub-text > h2{
+
+color: black!important;
+}
+
+.my-shadow{
+    box-shadow: 3px 3px 3px 3px 
+   rgba(0, 0, 0, 0.28);
+       height: 110px;
+}
+
+
+.voice-shadow{
+    box-shadow: 3px 3px 3px 3px 
+   rgba(0, 0, 0, 0.28);
+       
+}
+
+
+
+
+.sub-list{
+
+	padding-left: 100px!important;
+}
+
+.orange-text{
+	/*color: #fab915!important;*/
+    color: #fc0254!important;
+}
+
+#first-grid, #third-grid{
+
+	border-right: 3px dotted #fbb607;
+
+	 
+}
+
+#second-grid, #fourth-grid{
+   
+   border-right: 3px solid #fbb607;
+}
+
+#second-grid, #fourth-grid{
+
+	border-bottom: 3px solid #D0C4A0;
+}
+
+#first-grid, #third-grid{
+
+	border-bottom: 3px solid #D0C4A0;
+
+}
+
+
+
+.intro-section{
+
+
+
+background-position: -20px 8px;
+background-repeat: no-repeat;
+
+background-image: url(../img/radiant.png)!important;
+
+/*background-position: 125px;
+background-repeat: no-repeat;
+
+background-image: url(../img/blogcast.svg)!important;*/
+
+
+}
+
+#demo-button{
+ 
+    font-family: Frank Ruhl Libre,serif;
+    font-size: 16px;
+    letter-spacing: -.1px;
+    font-weight: 700;
+    line-height: 16px;
+    text-decoration: none !important;
+    background-color: #fff;
+    color: #fff!important;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    justify-content: center;
+    padding: 16px 32px;
+    height: 48px;
+    text-align: center;
+    white-space: nowrap;
+    background: #fc0254;
+
+}
+
+
+.lang{
+
+    color: black!important;
+}
+
+nav{
+	background-color: #0a183de8!important;
+    background-image: url(../img/hero.png)!important;
+}
+
+
+
+#nav-trial{
+
+	color: #fc0254!important;
+}
+
+[data-toggle="pill"] {
+
+    color: black!important;
+}
+
+.voices{
+      background-image: url(../img/hero.png);
+}
+
+
+/*#reach{
+
+	background: url(../img/radiant2.png);
+}*/
+	
+
+#footer{
+
+background-image: url(../img/hero.png);
+  background-repeat: repeat;
+    background-color: #0a183d;
+
+}
